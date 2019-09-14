@@ -71,6 +71,7 @@ for update musician at http://127.0.0.1:8000/api/musicians/1/ endpoint:
         
     ]
 }
+```
 
 ### Resources:
 
